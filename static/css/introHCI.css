@@ -1,4 +1,9 @@
 /* applies to anything of class "example-class-selector" */
+
+p {
+    font-variant: small-caps;
+}
+
 .example-class-selector {
 	margin-top: 2em;
 }
